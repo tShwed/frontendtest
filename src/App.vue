@@ -2,6 +2,7 @@
   <div id="app">
     <div class="nav-bar">
       <img
+        alt="Chess.com Logo"
         src="https://assets.website-files.com/5a63cec143f71000016b5b7f/5a63cec143f71000016b5b99_Logo2.png"
       />
       <h1 class="project-title">
